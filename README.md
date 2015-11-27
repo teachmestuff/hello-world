@@ -1,7 +1,9 @@
-# hello-world
+This is the readme file. so information about the repo goes here. 
 
-int main(){
+COMO, 
 
-cout<<"hello world";
-return 0;
-}
+This repo is for testing. Please don't clone this or fork it. Thanks
+
+
+Sincerly, 
+Teachmestuff Team
