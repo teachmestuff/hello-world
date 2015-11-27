@@ -1,6 +1,7 @@
 # hello-world
 
-blah
-blah
-blah
-random repository
+int main(){
+
+cout<<"hello world";
+return 0;
+}
